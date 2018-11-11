@@ -1,2 +1,9 @@
 # courses
-utiliity to download videos from cloud academy
+utility to download videos from cloud academy
+
+Pre-requiste:
+
+Cloudacademy Login
+Browser (chrome)
+Python 3
+
