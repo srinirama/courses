@@ -1,5 +1,5 @@
 beautifulsoup4==4.6.3
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 cloudacademy-dl==0.1.1
 docopt==0.6.2
